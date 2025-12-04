@@ -1,4 +1,0 @@
-Flask
-speechrecognition
-python-docx
-gunicorn
